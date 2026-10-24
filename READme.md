@@ -1,0 +1,28 @@
+\# TaskFlow
+
+
+
+\## Project Overview
+
+TaskFlow is a simple task management application.
+
+
+
+\## Goals
+
+\- Create and manage tasks.
+
+\- Track task progress.
+
+\- Organize daily work.
+
+
+
+\## Technologies
+
+\- Git
+
+\- GitHub
+
+\- More technologies will be added as development progresses.
+
