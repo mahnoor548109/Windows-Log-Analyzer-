@@ -42,3 +42,6 @@ The following features are planned for future development:
 
 \- Organize tasks by priority.
 
+Task Description: A simple task management project.
+Project Purpose: Organize tasks efficiently.
+
